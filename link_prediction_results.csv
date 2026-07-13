@@ -1,0 +1,5 @@
+Method,AUC-ROC,Avg Precision,Precision@10,Precision@50,Precision@100
+Resource Allocation,0.8474,0.857,1.0,1.0,1.0
+Adamic-Adar,0.8471,0.8564,1.0,1.0,1.0
+Common Neighbors,0.8408,0.838,1.0,1.0,1.0
+Jaccard Coefficient,0.7964,0.7207,0.6,0.72,0.85

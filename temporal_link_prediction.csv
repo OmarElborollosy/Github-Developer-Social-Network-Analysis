@@ -1,0 +1,5 @@
+Method,Temporal_AUC,Temporal_AP
+Common Neighbors,0.9904,0.9904
+Jaccard,0.9904,0.9904
+Adamic-Adar,0.9904,0.9904
+Resource Allocation,0.9904,0.9904

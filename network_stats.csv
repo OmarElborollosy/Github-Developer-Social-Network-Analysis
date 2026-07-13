@@ -1,0 +1,10 @@
+Statistic,Value,Scope
+Number of nodes,37700.0,Full graph
+Number of edges,289003.0,Full graph
+Graph density,0.000407,Full graph
+Avg clustering coefficient,0.1675,Full graph
+Number of connected components,1.0,Full graph
+Largest component size (LCC),37700.0,LCC
+Approx. diameter (LCC),11.0,LCC (approximation)
+Avg path length (5K-node LCC sample),4.8384,"LCC sample (n=5000, seed=42)"
+Degree assortativity,-0.0752,Full graph
